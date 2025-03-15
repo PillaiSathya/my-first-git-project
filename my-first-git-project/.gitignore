@@ -1,5 +1,9 @@
 # Ignore system files and folders
-/AppData/
-/Documents/
-/Downloads/
-/OneDrive/
+**/AppData/
+**/Documents/
+**/Downloads/
+**/OneDrive/
+**/Pictures/
+**/Videos/
+**/ntuser.dat*
+**/ntuser.ini
