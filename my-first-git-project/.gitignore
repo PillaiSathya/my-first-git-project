@@ -1,4 +1,16 @@
+<<<<<<< HEAD
+# Ignore system files and folders
+**/AppData/
+**/Documents/
+**/Downloads/
+**/OneDrive/
+**/Pictures/
+**/Videos/
+**/ntuser.dat*
+**/ntuser.ini
+=======
 AppData/
 Documents/
 Downloads/
 OneDrive/
+>>>>>>> feature-login
